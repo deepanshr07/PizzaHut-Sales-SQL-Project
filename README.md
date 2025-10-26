@@ -16,11 +16,11 @@ It demonstrates strong SQL querying skills and showcases data analysis capabilit
 
 # 🛠️ Tools & Technologies
 
-MySQL — for database management and analysis
+MySQL - for database management and analysis
 
-Excel / CSV — data source
+Excel / CSV - data source
 
-SQL Workbench / VS Code — for writing and executing queries
+SQL Workbench / VS Code - for writing and executing queries
 
 # 🎯 Project Objectives
 
@@ -59,7 +59,7 @@ Group By / Order By
 
 CTEs & Window Functions
 
-🧑‍💻 Author
+# 🧑‍💻 Author
 
 Deepansh Raina
  • [GitHub](https://github.com/deepanshr07)
