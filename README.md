@@ -40,7 +40,7 @@ orders	Records all customer orders with timestamps
 order_details	Connects orders with pizzas and quantities
 
 # 🖼 ER Diagram:
-(You can include ER_Diagram.png here in your repo.)
+(You can include [ER_Diagram.png](https://github.com/deepanshr07/PizzaHut-Sales-SQL-Project/blob/main/ERDiagram.png.png) here in your repo.)
 
 # Key SQL Concepts Used
 
@@ -58,3 +58,8 @@ Subqueries
 Group By / Order By
 
 CTEs & Window Functions
+
+🧑‍💻 Author
+
+Deepansh Raina
+ • [GitHub](https://github.com/deepanshr07)
