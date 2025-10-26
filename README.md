@@ -1,9 +1,9 @@
-🍕 PizzaHut Sales SQL Project
+# 🍕 PizzaHut Sales SQL Project
 
-Overview:
+# Overview:
 This project explores PizzaHut sales data using SQL. It focuses on generating insights about customer behavior, sales performance, and product popularity through SQL queries.
 
-Tools Used:
+# Tools Used:
 
 MySQL
 
@@ -11,7 +11,7 @@ Excel / CSV (for data source)
 
 SQL Workbench / VS Code
 
-Objectives:
+# Objectives:
 
 Identify top-selling pizzas and categories
 
