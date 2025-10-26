@@ -1,4 +1,4 @@
-🍕 PizzaHut Sales SQL Project
+# 🍕 PizzaHut Sales SQL Project
 
 
 
@@ -9,12 +9,12 @@
 
 
 
-📘 Overview
+# 📘 Overview
 
 This project explores PizzaHut’s sales data to uncover insights into sales performance, customer behavior, and pizza popularity.
 It demonstrates strong SQL querying skills and showcases data analysis capabilities using real-world business data.
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 MySQL — for database management and analysis
 
@@ -22,7 +22,7 @@ Excel / CSV — data source
 
 SQL Workbench / VS Code — for writing and executing queries
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 Identify top-selling pizzas and revenue-generating categories
 
@@ -32,21 +32,21 @@ Study customer order patterns (sizes, order hours, frequency)
 
 Gain insights to support data-driven business decisions
 
-🧩 Database Schema
+# 🧩 Database Schema
 Table Name	Description
 pizza_types	Contains pizza categories, names, and ingredients
 pizzas	Includes pizza IDs, sizes, and prices
 orders	Records all customer orders with timestamps
 order_details	Connects orders with pizzas and quantities
 
-🖼 ER Diagram:
+# 🖼 ER Diagram:
 (You can include ER_Diagram.png here in your repo.)
 
-🧠 Key SQL Concepts Used
+# Key SQL Concepts Used
 
 Aggregate Functions: SUM(), COUNT(), AVG()
 
-JOINS: INNER JOIN, LEFT JOIN
+JOINS: INNER JOIN
 
 Grouping & Ordering: GROUP BY, ORDER BY
 
